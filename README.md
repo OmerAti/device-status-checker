@@ -13,7 +13,10 @@ Eklenti, admin paneli üzerinden cihaz ekleme, düzenleme ve durum güncellemele
 
 ## Kurulum
 
-1. **Eklentiyi İndir:** Bu repoyu bilgisayarınıza klonlayın veya `.zip` dosyasını indirin.
-   
-   ```bash
-   git clone https://github.com/kullanici-adi/teknik-servis-cihaz-durum-sorgulama.git
+1. **Eklentiyi İndir:**
+2. wp-content\plugins içine atın
+3. eklentiyi etkinleştirin
+4. wordpress sayfa oluşturun
+5. sayfa adını cihaz sorgula ayarlayın
+6. içerigi `[device_status_checker]` olarak ayarlayın
+7. eklediginiz sayfayı menü olarak ekleyin
