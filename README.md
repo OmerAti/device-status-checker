@@ -2,6 +2,9 @@
 
 WordPress eklentisi, teknik servis işlemlerini kolaylaştırmak amacıyla cihaz durumlarını yönetmek ve kullanıcıların bu durumu sorgulamalarını sağlamak için tasarlanmıştır. 
 Eklenti, admin paneli üzerinden cihaz ekleme, düzenleme ve durum güncellemelerini yapmanızı sağlar.
+![Cihaz Ekle](cihazekle.png)
+
+![Cihaz Durumu Sorgulama Ekranı](servisler.png)
 
 ## Özellikler
 
